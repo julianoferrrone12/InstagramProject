@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-### Pré-requisitos
+### ✅ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:<br />
 - [Git](https://git-scm.com)<br />
