@@ -20,5 +20,5 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 
 ### Getting Started
 
-Clone this repository: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
-Move yourself to the appropriate directory: "cd InstagramProject"
+- Clone this repository: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
+- Move yourself to the appropriate directory: "cd InstagramProject"
