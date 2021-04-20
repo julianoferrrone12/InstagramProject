@@ -3,12 +3,6 @@
 </h1>
 <p align="center">🚀 Um clone da página inicial do Instagram, projeto desenvolvido em LiveCoding pela Digital Innovation One</p>
 
-# InstagramProject
-
-##Projeto desenvolvido pelo LiveCoding pela Digital Innovation One
-##Todos os créditos aos professores que ministraram
-
-
 ### 🛠 Features
 
 As seguintes ferramentas foram usadas na construção do projeto:
