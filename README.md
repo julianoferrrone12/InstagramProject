@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:<br />
-- [Git](https://git-scm.com).
+- [Git](https://git-scm.com)<br />
 Além disto é bom ter um editor de texto para manipular o código, te indico um que eu gosto bastante:<br />
 - [VSCode](https://code.visualstudio.com/)
 
