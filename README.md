@@ -24,6 +24,6 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 - Move yourself to the appropriate directory: "cd InstagramProject"
 - Type code. for open this project on Visual Studio Code
 
-### 🚩 The End
+## 🚩 The End
 
 🌟Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!! 🌟
