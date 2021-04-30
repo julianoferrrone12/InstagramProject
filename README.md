@@ -23,3 +23,7 @@ Além disto é bom ter um editor de texto para manipular o código, te indico um
 - Clone this repository: "git clone https://github.com/julianoferrrone12/InstagramProject.git" <br />
 - Move yourself to the appropriate directory: "cd InstagramProject"
 - Type code. for open this project on Visual Studio Code
+
+### 🚩 The End
+
+🌟Antes de sair desse repositório não esqueça de deixar sua "star" ajuda muito e não custa nada!! 🌟
